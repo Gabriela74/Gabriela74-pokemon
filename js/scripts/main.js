@@ -319,6 +319,20 @@ function showMorePokemon() {
 
 btnLoadMore.addEventListener('click', showMorePokemon);
 
+function checkInputs(inputs) {
+  var filled = true;
+  
+  inputs.forEach(function(input) {
+      
+    if(input.value === "") {
+        filled = false;
+    }
+  
+  });
+  
+  return filled;
+  
+}
 
 // função para filtrar os pokemons por tipo
 
@@ -458,3 +472,44 @@ if(infoCard.image) {
   }
  })
 }
+
+function checkInputs(inputs) {
+  var filled = true;
+  
+  inputs.forEach(function(input) {
+      
+    if(input.value === "") {
+        filled = false;
+    }
+  
+  });
+  
+  return filled;
+  
+}
+
+function checkInputs(inputSearch) {
+  var filled = true;
+  
+  inputs.forEach(function(inputSearch) {
+      
+    if(inputSearch.value === "") {
+        filled = false;
+    }
+  
+  });
+  
+  return filled;
+  
+}
+
+inputs.forEach(function(input) {
+    
+  input.addEventListener("keyup", function() {
+    if(checkInputs(inputSearch)) {
+      btnSearch.disabled = false;
+    } else {
+      btnSearch.disabled = true;
+    }
+  });
+});
