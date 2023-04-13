@@ -7,16 +7,13 @@
 O Projeto Pratico Pokemon faz parte do curso Front-end descomplicado e direto ao ponto! Ele é dedicado a pratica do que foi ensinado no módulo de Javascript.
 Além de ter um layout bem trabalhado se baseia em consultas de API's para trazer as informações com as quais o usúario interage.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
 ![Web 1](https://github.com/Gabriela74/Gabriela74-pokemon/blob/main/readme/home%20blue.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/Gabriela74/Gabriela74-pokemon/blob/main/readme/home%20red.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![web 3](https://github.com/Gabriela74/Gabriela74-pokemon/blob/main/readme/pokemon%20details.png)
+
 
 # Tecnologias utilizadas
 -HTML
