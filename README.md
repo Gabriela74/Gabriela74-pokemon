@@ -25,7 +25,6 @@ HTML
 
 # Como executar o projeto
 
-## Front end web
 Pré-requisitos: npm / yarn
 
 ```bash
