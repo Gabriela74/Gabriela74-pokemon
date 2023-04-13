@@ -14,9 +14,10 @@ Além de ter um layout bem trabalhado se baseia em consultas de API's para traze
 
 ![web 3](https://github.com/Gabriela74/Gabriela74-pokemon/blob/main/readme/pokemon%20details.png)
 
+![Web 4](https://github.com/Gabriela74/Gabriela74-pokemon/blob/main/readme/search%20page.png)
 
 # Tecnologias utilizadas
--HTML
+HTML
 -CSS
 -SCSS
 -JS
@@ -29,10 +30,10 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone git@github.com:Gabriela74/Gabriela74-pokemon.git
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd Gabriela74-pokemon
 
 # instalar dependências
 yarn install
